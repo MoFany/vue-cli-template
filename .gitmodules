@@ -1,3 +1,6 @@
 [submodule "my-vue-cli"]
 	path = my-vue-cli
 	url = https://github.com/MoFany/my-vue-cli.git
+[submodule "my-vite-vue-cli"]
+	path = my-vite-vue-cli
+	url = https://github.com/MoFany/my-vite-vue-cli.git
